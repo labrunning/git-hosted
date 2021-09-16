@@ -1,0 +1,6 @@
+! Ad Guard filter rules
+! Office 365 Connectivity
+@@||events.data.microsoft.com
+@@||aria.microsoft.com
+@@c1.microsoft.com
+@@cdn.optimizely.com
