@@ -1,0 +1,4 @@
+! Ad Guard filter rules
+! Deviant Art for Alex
+@@||deviantart.com
+@@deviantart.com
