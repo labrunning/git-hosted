@@ -1,0 +1,2 @@
+api.radarr.video
+skyhook.sonarr.tv
